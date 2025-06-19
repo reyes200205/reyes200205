@@ -27,8 +27,15 @@
 </p>
 
 <br>
-<Img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<Img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)"> 
+<span>
+  <Img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <Img src="">   
+  <Img src="">   
+  <Img src="">   
+  <Img src="">   
+  <Img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
 <br>
 
 <h3>Statistical Data :-</h3>
