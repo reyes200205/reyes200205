@@ -23,7 +23,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🌱 Actualmente aprendiendo **desarrollo web** y otros lenguajes de programación
-- 💬 Pregúntame sobre **JavaScript, React, Laravel, Python**
+- 💬 Pregúntame sobre **Vue, JavaScript, React, Laravel, Python**
 - 📫 Cómo contactarme: **alejandro.renteria.dev@gmail.com**
 - ⚡ Dato curioso: la comida y la música 🎵 son razones para vivir
 
@@ -48,6 +48,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" />
@@ -62,9 +63,13 @@
 
 ## 📊 GitHub Stats
 
+<!-- github-readme-stats ya no se mantiene activamente; su sucesor oficial es
+     GitHub Stats Extended (github-stats-extended.vercel.app), 100% compatible
+     con los mismos parámetros y más estable. Si alguna card no carga, cambia
+     el dominio de vuelta a github-readme-stats.vercel.app como respaldo. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&border_color=30363d&count_private=true" alt="reyes200205 stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&border_color=30363d" alt="top languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&border_color=30363d&count_private=true" alt="reyes200205 stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&border_color=30363d" alt="top languages" width="49%" />
 </p>
 
 <p align="center">
