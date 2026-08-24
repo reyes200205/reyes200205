@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Alejandro Reyes</h1>
+<h1 align="center">Hi 👋, I'm Alejandro Reyes</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Developer+%F0%9F%8C%9F;Web+Development+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
@@ -20,16 +20,16 @@
 
 <br>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 🌱 Actualmente aprendiendo **desarrollo web** y otros lenguajes de programación
-- 💬 Pregúntame sobre **Vue, JavaScript, React, Laravel, Python**
-- 📫 Cómo contactarme: **alejandro.renteria.dev@gmail.com**
-- ⚡ Dato curioso: la comida y la música 🎵 son razones para vivir
+- 🌱 Currently learning **web development** and other programming languages
+- 💬 Ask me about **Vue, JavaScript, React, Laravel, Python**
+- 📫 How to reach me: **alejandro.renteria.dev@gmail.com**
+- ⚡ Fun fact: Food and music 🎵 are reasons to live
 
 <br>
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-alejandro-renteria-reyes" target="_blank">
@@ -63,10 +63,10 @@
 
 ## 📊 GitHub Stats
 
-<!-- github-readme-stats ya no se mantiene activamente; su sucesor oficial es
+<!-- github-readme-stats is no longer actively maintained; its official successor is
      GitHub Stats Extended (github-stats-extended.vercel.app), 100% compatible
-     con los mismos parámetros y más estable. Si alguna card no carga, cambia
-     el dominio de vuelta a github-readme-stats.vercel.app como respaldo. -->
+     with the same parameters and more stable. If any card fails to load, switch
+     the domain back to github-readme-stats.vercel.app as a fallback. -->
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&border_color=30363d&count_private=true" alt="reyes200205 stats" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&border_color=30363d" alt="top languages" width="49%" />
@@ -88,4 +88,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyes200205&theme=react-dark&bg_color=0d1117&hide_border=true" alt="activity graph" />
 </p>
 
-<p align="center">⭐ De <a href="https://github.com/reyes200205">Alejandro Reyes</a></p>
+<p align="center">⭐ By <a href="https://github.com/reyes200205">Alejandro Reyes</a></p>
