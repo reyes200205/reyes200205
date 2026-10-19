@@ -113,16 +113,8 @@
             <br>Express JS
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="45" height="45" alt="PrimeNG" />
-            <br>PrimeNG
-        </td>
-        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
             <br>Tailwind
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=android" width="45" height="45" alt="Android" />
-            <br>Android
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
