@@ -15,7 +15,7 @@
 ## 🎧 Now Playing
 
 <p align="center">
-  <a href="https://github.com/tthn0/Spotify-Readme">
+  <a href="https://open.spotify.com/user/TU_USUARIO_SPOTIFY">
     <img src="https://reyes221119.pythonanywhere.com/?theme=dark&spin=true" alt="Current Spotify Song" />
   </a>
 </p>
@@ -184,5 +184,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="32" width="42" />
   </a>
 </p>
+<p align="center"><sub>Widget by <a href="https://github.com/tthn0/Spotify-Readme">tthn0/Spotify-Readme</a></sub></p>
 
 <p align="center">⭐ By <a href="https://github.com/reyes200205">Alejandro Reyes</a></p>
