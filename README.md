@@ -68,6 +68,14 @@
             <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
             <br>Nuxt.js
         </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+            <br>PHP
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+            <br>Angular
+        </td>
     </tr>
     <tr>
         <td align="center" width="90">
@@ -97,10 +105,6 @@
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
             <br>PostgreSQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
-            <br>PHP
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
@@ -139,10 +143,6 @@
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino" />
             <br>Arduino
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-            <br>Angular
         </td>
     </tr>
 </table>
