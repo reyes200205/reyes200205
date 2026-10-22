@@ -15,8 +15,8 @@
 ## 🎧 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/TU_USUARIO_SPOTIFY">
-    <img src="https://reyes221119.pythonanywhere.com/?theme=dark&spin=true" alt="Current Spotify Song" />
+  <a href="https://open.spotify.com/user/reyes200205">
+    <img src="https://reyes221119.pythonanywhere.com/?theme=dark&spin=false" alt="Current Spotify Song" />
   </a>
 </p>
 
