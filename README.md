@@ -7,12 +7,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alejandro+%F0%9F%91%8B;Software+Developer;Web+Development+Enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alejandro+%F0%9F%91%8B;Software+Developer;Web+Development+Enthusiast" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-alejandro-renteria-reyes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.renteria.dev@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=reyes200205&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
 </div>
 <br>
 
