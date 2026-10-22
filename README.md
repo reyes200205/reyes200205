@@ -12,6 +12,16 @@
 </div>
 <br>
 
+## 🎧 Now Playing
+
+<p align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://reyes221119.pythonanywhere.com/?theme=dark&spin=true" alt="Current Spotify Song" />
+  </a>
+</p>
+
+<br>
+
 ## 🚀 About me
 
 - 💻 Currently working as **Programador Junior** at **Master Drilling**
