@@ -46,12 +46,10 @@
 
 <br>
 
-
-
 <table align="center">
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
             <br>React
         </td>
         <td align="center" width="90">
@@ -85,15 +83,15 @@
     </tr>
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+            <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
             <br>AWS
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
             <br>Typescript
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
             <br>Go
         </td>
         <td align="center" width="90">
@@ -105,7 +103,7 @@
             <br>MongoDB
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
             <br>MySQL
         </td>
         <td align="center" width="90">
@@ -119,7 +117,7 @@
     </tr>
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
             <br>Python
         </td>
         <td align="center" width="90">
@@ -127,15 +125,15 @@
             <br>iOS
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="REST API" />
             <br>REST API
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
             <br>Javascript
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
             <br>Docker
         </td>
         <td align="center" width="90">
@@ -143,7 +141,7 @@
             <br>Next.js
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.worldvectorlogo.com/logos/mqtt.svg" width="45" height="45" alt="MQTT" />
+            <img src="https://cdn.simpleicons.org/mqtt/ffffff" width="40" height="40" alt="MQTT" />
             <br>MQTT
         </td>
         <td align="center" width="90">
@@ -152,6 +150,8 @@
         </td>
     </tr>
 </table>
+
+
 <br />
 
 
@@ -159,15 +159,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&border_color=30363d&count_private=true" alt="reyes200205 stats" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&border_color=30363d" alt="top languages" width="49%" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&border_color=30363d&count_private=true&card_width=495" alt="reyes200205 stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=reyes200205&locale=en&bg_color=0d1117&text_color=ffffff&title_color=58A6FF&layout=compact&border_color=30363d&card_width=495&langs_count=6" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=reyes200205&theme=dark&background=0d1117&border=30363d&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=reyes200205&theme=dark&background=0d1117&border=30363d&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 </p>
-
-
 
 <br>
 
