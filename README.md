@@ -159,13 +159,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=reyes200205&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=58A6FF&border_color=30363d&count_private=true&card_width=495" alt="reyes200205 stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=reyes200205&locale=en&bg_color=0d1117&text_color=ffffff&title_color=58A6FF&layout=compact&border_color=30363d&card_width=495&langs_count=6" alt="top languages" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=reyes200205&theme=dark&background=0d1117&border=30363d&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=reyes200205&theme=dark&background=0d1117&border=30363d&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=reyes200205&locale=en&bg_color=0d1117&text_color=ffffff&title_color=58A6FF&layout=compact&border_color=30363d&card_width=495&langs_count=6" alt="top languages" />
 </p>
+
 
 <br>
 
